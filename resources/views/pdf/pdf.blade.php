@@ -70,7 +70,7 @@
     <table style="border: 2px solid #fff;">
         <tr>
             <td class="tc bb-none">
-                <p style="font-size: 15px;">Parcelsheba</p>
+                <p style="font-size: 15px;">গাজীপুরের মেয়র জাহাঙ্গীর কি চাপে পড়লেন</p>
             </td>
         </tr>
         <tr>
